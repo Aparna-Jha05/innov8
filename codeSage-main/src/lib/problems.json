@@ -1,0 +1,40 @@
+{
+    "problems": [
+        {
+            "title": "Find Duplicates in an Array",
+            "description": "Given an integer array `nums`, find all the duplicates in this array. Each integer appears once or twice. The function should return an array of all the integers that appears twice.",
+            "initialCode": "def find_duplicates(arr):\n  # Your code here\n  pass\n",
+            "difficulty": "easy"
+        },
+        {
+            "title": "Two Sum",
+            "description": "Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`. You may assume that each input would have exactly one solution, and you may not use the same element twice.",
+            "initialCode": "def two_sum(nums, target):\n  # Your code here\n  pass\n",
+            "difficulty": "easy"
+        },
+        {
+            "title": "Longest Substring Without Repeating Characters",
+            "description": "Given a string `s`, find the length of the longest substring without repeating characters.",
+            "initialCode": "def length_of_longest_substring(s):\n  # Your code here\n  pass\n",
+            "difficulty": "medium"
+        },
+        {
+            "title": "Container With Most Water",
+            "description": "You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `i`-th line are `(i, 0)` and `(i, height[i])`. Find two lines that together with the x-axis form a container, such that the container contains the most water. Return the maximum amount of water a container can store.",
+            "initialCode": "def max_area(height):\n  # Your code here\n  pass\n",
+            "difficulty": "medium"
+        },
+        {
+            "title": "Trapping Rain Water",
+            "description": "Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.",
+            "initialCode": "def trap(height):\n  # Your code here\n  pass\n",
+            "difficulty": "hard"
+        },
+        {
+            "title": "Median of Two Sorted Arrays",
+            "description": "Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).",
+            "initialCode": "def find_median_sorted_arrays(nums1, nums2):\n  # Your code here\n  pass\n",
+            "difficulty": "hard"
+        }
+    ]
+}
